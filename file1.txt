@@ -1,4 +1,4 @@
 Hello world!
 add new 2 line
-add 3 line
+edit line from user2
 Line from user1
