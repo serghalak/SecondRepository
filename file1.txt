@@ -3,3 +3,5 @@ add new 2 line
 edit line from user2
 Line from user1
 some new feature
+Line from user1 - lesson about rebase
+
