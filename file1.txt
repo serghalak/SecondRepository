@@ -2,4 +2,4 @@ Hello world!
 add new 2 line
 edit line from user2
 Line from user1
-
+some new feature
